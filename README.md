@@ -12,6 +12,8 @@ Updated July 2015 by John Slee - Added Schroff enclosure generator option. Curre
 
 Updated Sept 2015 by Paul Hutchison - Elliot White got in touch to provide updated contact details
 
+Updated August 2016 by John Slee - Fix Windows logging bug in Schroff generator, reported by ZenithDK
+
 ## About
  This tool is designed to simplify and speed up process of making practical boxes using a laser cutter (though it can be used with any CNC cutter) to prepare the pieces.
 
